@@ -22,3 +22,5 @@
 <br/>
 
 Sempre gostei de brincar com códigos e agora levo mais à sério estudando sempre como um louco apaixonado!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin27K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
